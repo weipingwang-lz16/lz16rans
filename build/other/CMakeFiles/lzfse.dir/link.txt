@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblzfse.a CMakeFiles/lzfse.dir/lzfse/src/lzfse_decode.c.o CMakeFiles/lzfse.dir/lzfse/src/lzfse_decode_base.c.o CMakeFiles/lzfse.dir/lzfse/src/lzfse_encode.c.o CMakeFiles/lzfse.dir/lzfse/src/lzfse_encode_base.c.o CMakeFiles/lzfse.dir/lzfse/src/lzfse_fse.c.o CMakeFiles/lzfse.dir/lzfse/src/lzfse_main.c.o CMakeFiles/lzfse.dir/lzfse/src/lzvn_decode_base.c.o CMakeFiles/lzfse.dir/lzfse/src/lzvn_encode_base.c.o
+/usr/bin/ranlib liblzfse.a

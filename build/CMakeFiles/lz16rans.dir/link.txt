@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblz16rans.a CMakeFiles/lz16rans.dir/lib/c/lz16.c.o CMakeFiles/lz16rans.dir/lib/c/lz16decode.c.o CMakeFiles/lz16rans.dir/lib/c/lz16encode.c.o CMakeFiles/lz16rans.dir/lib/c/rans64me.c.o CMakeFiles/lz16rans.dir/lib/TPdynamic/threadpool.c.o
+/usr/bin/ranlib liblz16rans.a

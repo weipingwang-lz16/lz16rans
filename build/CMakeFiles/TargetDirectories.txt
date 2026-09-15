@@ -1,0 +1,9 @@
+/Users/nbdssj/code/compress/lz16rans/build/CMakeFiles/lz16rans.dir
+/Users/nbdssj/code/compress/lz16rans/build/CMakeFiles/mylz16.dir
+/Users/nbdssj/code/compress/lz16rans/build/CMakeFiles/edit_cache.dir
+/Users/nbdssj/code/compress/lz16rans/build/CMakeFiles/rebuild_cache.dir
+/Users/nbdssj/code/compress/lz16rans/build/other/CMakeFiles/lzfse.dir
+/Users/nbdssj/code/compress/lz16rans/build/other/CMakeFiles/lz4.dir
+/Users/nbdssj/code/compress/lz16rans/build/other/CMakeFiles/zstd.dir
+/Users/nbdssj/code/compress/lz16rans/build/other/CMakeFiles/edit_cache.dir
+/Users/nbdssj/code/compress/lz16rans/build/other/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/nbdssj/code/compress/lz16rans/build/cmake_install.cmake",
+		"/Users/nbdssj/code/compress/lz16rans/build/other/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

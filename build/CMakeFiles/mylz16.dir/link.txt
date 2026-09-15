@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/mylz16.dir/tests/main.c.o CMakeFiles/mylz16.dir/tests/common.c.o -o mylz16  liblz16rans.a other/libzstd.a other/liblz4.a other/liblzfse.a
